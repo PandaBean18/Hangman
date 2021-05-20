@@ -1,5 +1,5 @@
 class Hangman
-  DICTIONARY = ["cat", "dog", "bootcamp", "pizza", "chair", "music", "plain", "animal", "discord"]
+  DICTIONARY = ["cat", "dog", "bootcamp", "pizza", "chair", "music", "plain", "animal", "discord", "movie", "logic", "drama"]
 
   def Hangman.random_word
     DICTIONARY.sample 
